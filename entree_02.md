@@ -8,11 +8,11 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 
 ### [Apple Vision Pro](https://www.apple.com/apple-vision-pro/?/)
 
-L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive et immersive d'une grande aide à la société. Car elle nous propose de nombreuses applications en "Réalité Augmentée" (comme celle de Iron Man) à travers un "Casque VR" afin de faire plusieurs tâches en même temps. Ce type d'invention me motive à créer de l'animation 3D et de nouvelles applications en Multimédia pour cette nouvelle ère de la « réalité augmentée ».
+L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive et immersive d'une grande aide à la société. Elle nous propose de nombreuses applications en "Réalité Augmentée" (comme celle de Iron Man) à travers un "Casque VR" afin de faire plusieurs tâches en même temps. Ce type d'invention me motive à créer de l'animation 3D et de nouvelles applications en Multimédia pour cette nouvelle ère de la « réalité augmentée ».
 
 ### [Soissons en lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
 
-*Soissons en lumières*
+L'oeuvre *Soissons en lumières* m'adresse car c'est une oeuvre narrative et interactive qui laisse une expérience 
 
 ### Lien 3 
 Expliquer pourquoi vous avez choisi ce lien.  
