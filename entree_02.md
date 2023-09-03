@@ -6,11 +6,13 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Apple Vision Pro](https://www.apple.com/apple-vision-pro/?/)
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive et immersive d'une grande aide à la société. Car elle nous propose de nombreuses applications en "Réalité Augmentée" (comme celle de Iron Man) à travers un "Casque VR" afin de faire plusieurs tâches en même temps. Ce type d'invention me motive à créer de l'animation 3D et de nouvelles applications en Multimédia pour cette nouvelle ère de la « réalité augmentée ».
+
+### [Soissons en lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
+
+*Soissons en lumières*
 
 ### Lien 3 
 Expliquer pourquoi vous avez choisi ce lien.  
