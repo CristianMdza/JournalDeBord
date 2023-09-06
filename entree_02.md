@@ -10,11 +10,11 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 
 L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive et immersive d'une grande aide à la société. Elle nous propose de nombreuses applications en "Réalité Augmentée" (comme celle de Iron Man) à travers un "Casque VR" afin de faire plusieurs tâches en même temps. Ce type d'invention me motive à créer de l'animation 3D et de nouvelles applications en Multimédia pour cette nouvelle ère de la « réalité augmentée ».
 
-### [Soissons en lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
+### [Soissons En Lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
 
 L'oeuvre *Soissons en lumière* m'interesse car c'est une œuvre narrative immersive qui se déroule la nuit. Justement, il touche nos ressentis et nos émotions à travers des animations audiovisuelles dans les bâtiments. Ce travail m'aide à comprendre et à avoir un peu plus d'idées pour mes prochaines créations 2D et 3D, un art que je suis très intéressé à apprendre dans le programme multimédia. 
 
-### Lien 3 
+### [Planet Earth](https://studiomuti.co.za/planet-earth/)
 Expliquer pourquoi vous avez choisi ce lien.  
 
 ### Lien 4 
