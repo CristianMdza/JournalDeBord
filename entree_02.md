@@ -12,10 +12,11 @@ L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive e
 
 ### [Soissons En Lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
 
-L'oeuvre *Soissons en lumière* m'interesse car c'est une œuvre narrative immersive qui se déroule la nuit. Justement, il touche nos ressentis et nos émotions à travers des animations audiovisuelles dans les bâtiments. Ce travail m'aide à comprendre et à avoir un peu plus d'idées pour mes prochaines créations 2D et 3D, un art que je suis très intéressé à apprendre dans le programme multimédia. 
+L'oeuvre *Soissons en lumière* m'interesse car c'est une oeuvre narrative immersive qui se déroule la nuit. Justement, il touche nos ressentis et nos émotions à travers des animations audiovisuelles dans les bâtiments. Cela m'aide à comprendre et à avoir un peu plus d'idées pour mes prochaines créations 2D et 3D, un art que je suis très intéressé à apprendre dans le programme multimédia. 
 
 ### [Planet Earth](https://studiomuti.co.za/planet-earth/)
-Expliquer pourquoi vous avez choisi ce lien.  
+
+L'oeuvre *Planète Terre* m'intéresse beaucoup car c'est une oeuvre numérique réalisé en vecteurs.  À travers cela, l'artiste nous fait voir l'importance de la biodiversité et des écosystèmes que nous avons sur notre planète. le graphisme est un autre aspect du multimédia qui me passionne et qui m'aidera dans ma démarche artistique afin de m'exprimer via Photoshop.
 
 ### Lien 4 
 Expliquer pourquoi vous avez choisi ce lien. 
