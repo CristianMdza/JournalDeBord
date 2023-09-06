@@ -12,7 +12,7 @@ L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive e
 
 ### [Soissons en lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
 
-L'oeuvre *Soissons en lumières* m'adresse car c'est une oeuvre narrative et immersive qui se déroule la nuit. Précisément, elle touche nos sentiments et nos émotions à travers des animations audiovisuels dans les bâtiments. Donc, montrer  
+L'œuvre *Soissons en lumière* s'adresse à moi car c'est une œuvre narrative immersive qui se déroule la nuit. Justement, il touche nos ressentis et nos émotions à travers des animations audiovisuelles dans les bâtiments. Cela peut m'aider dans ma démarche artistique, en prenant position sur la création et la projection de la 2D et de la 3D dans différents lieux emblématiques.
 
 ### Lien 3 
 Expliquer pourquoi vous avez choisi ce lien.  
