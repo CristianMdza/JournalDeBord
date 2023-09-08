@@ -18,8 +18,9 @@ L'oeuvre *Soissons en lumière* m'interesse car c'est une oeuvre narrative immer
 
 L'oeuvre *Planète Terre* m'intéresse beaucoup car c'est une oeuvre numérique réalisé en vecteurs.  À travers cela, l'artiste nous fait voir l'importance de la biodiversité et des écosystèmes que nous avons sur notre planète. le graphisme est un autre aspect du multimédia qui me passionne et qui m'aidera dans ma démarche artistique afin de m'exprimer via Photoshop.
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Venise, de Canaletto à Monet](https://www.culturespacesdigital.com/fr/expositions/)
+
+L'oeuvre *Venise, de Canaletto à Monet*
 
 ### Lien 5 
 Expliquer pourquoi vous avez choisi ce lien. 
