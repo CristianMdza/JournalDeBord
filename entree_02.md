@@ -24,7 +24,7 @@ L'oeuvre *Venise, de Canaletto à Monet* m'interesse puisque c'est une expositio
 
 ### [Friv site](https://www.friv.com/)
 
-La plateforme *Friv* m'interesse car c'est un site interactif des jeux videos en ligne pour tous les goûts. Cela nous offre un grand nombre de jeux videos dans un même site web
+La plateforme *Friv* m'interesse car c'est un site interactif des jeux videos en ligne pour tous les goûts. Cela nous offre un grand nombre de jeux videos dans un même site web. Friv peut m'inspirer à développer et à aimer un peu plus la programmation, un des aspects multimédia qui peut m'en servir afin de créer un jour mon propre site web et implementer là-dans l'animation 3d à travers des jeux videos. 
 
 
 
