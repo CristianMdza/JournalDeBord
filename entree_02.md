@@ -20,7 +20,7 @@ L'oeuvre *Planète Terre* m'intéresse beaucoup car c'est une oeuvre numérique 
 
 ### [Venise, de Canaletto à Monet](https://www.culturespacesdigital.com/fr/expositions/)
 
-L'oeuvre *Venise, de Canaletto à Monet*
+L'oeuvre *Venise, de Canaletto à Monet* m'interesse puisque c'est une exposition immersive qui montre la ville de venice. Cela fait découvrir l'histoire et l'architecture dans un contexte artistique. L'architecture est un art et profession qui m'interessais depuis que j'étais petit, et je pense que Multimédia m'en servira pour l'implementer dans mes projets de design graphique. 
 
 ### Lien 5 
 Expliquer pourquoi vous avez choisi ce lien. 
