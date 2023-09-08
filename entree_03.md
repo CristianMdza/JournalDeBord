@@ -2,10 +2,12 @@
 ## Plan de carrière
 
 ### Présentation
-Parlez de vous. 
+
+
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+
+Dans le domaine Multimédia 
 
 ### Emplois qui vous intéressent
 Nommez deux emplois.
