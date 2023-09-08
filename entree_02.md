@@ -8,7 +8,7 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 
 ### [Apple Vision Pro](https://www.apple.com/apple-vision-pro/?/)
 
-L'oeuvre *Apple Vision Pro* m'interesse parce que c'est une oeuvre interactive et immersive d'une grande aide à la société. Elle nous propose de nombreuses applications en "Réalité Augmentée" (comme celle de Iron Man) à travers un "Casque VR" afin de faire plusieurs tâches en même temps. Ce type d'invention me motive à créer de l'animation 3D et de nouvelles applications en Multimédia pour cette nouvelle ère de la « réalité augmentée ».
+Le casque *Apple Vision Pro* m'interesse parce que c'est un dispositif interactif et immersif d'une grande aide à la société. Il nous propose de nombreuses applications en "Réalité Augmentée" (comme celle de Iron Man) à travers un "Casque VR" afin de faire plusieurs tâches en même temps. Ce type d'invention me motive à créer de l'animation 3D et de nouvelles applications en Multimédia pour cette nouvelle ère de la « réalité augmentée ».
 
 ### [Soissons En Lumières](https://momentfactory.com/work/all/all/soissons-en-lumieres/)
 
@@ -22,6 +22,9 @@ L'oeuvre *Planète Terre* m'intéresse beaucoup car c'est une oeuvre numérique 
 
 L'oeuvre *Venise, de Canaletto à Monet* m'interesse puisque c'est une exposition immersive qui montre la ville de venice. Cela fait découvrir l'histoire et l'architecture dans un contexte artistique. L'architecture est un art et profession qui m'interessais depuis que j'étais petit, et je pense que Multimédia m'en servira pour l'implementer dans mes projets de design graphique. 
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Friv site](https://www.friv.com/)
+
+La plateforme *Friv* m'interesse car c'est un site interactif des jeux videos en ligne pour tous les goûts. Cela nous offre un grand nombre de jeux videos 
+
+
 
