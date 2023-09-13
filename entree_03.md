@@ -22,4 +22,11 @@ Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez p
 - Dans 5 ans je me vois comme producteur de musique dans un studio, j'aimerais travailler à Miami, une des villes où l'industrie de la musique et du son est forte. Sinon, en tant que technicien en bruitage et éclairage de concerts.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+
+- Créer un studio de musique.
+
+- Créer de nouveaux rythmes musicaux pour des chansons urbaines et électroniques.
+
+-Créer des projets interactifs et immersifs pour le centre-ville de Montréal.
+
+- Pouvoir faire partie d'une équipe pour des projets de création de jeux vidéo dans des entreprises renommées à Montréal.
