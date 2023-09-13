@@ -7,10 +7,13 @@ Depuis que je suis petit, j'aime beaucoup l'art, le sport et la musique. En fait
 
 ### Intérêts dans le domaine
 
-Dans le domaine Multimédia 
+Dans le domaine du multimédia, je m'intéresse beaucoup à l'audio, notamment à l'apprentissage des programmes de création sonore. Egalement l'utilisation et la modification d'images à travers l'illustration numérique et l'animation 2D ou 3D afin de créer des jeux vidéo.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+
+producteur de musique
+
+designer graphique
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
