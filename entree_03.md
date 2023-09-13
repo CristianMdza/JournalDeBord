@@ -23,10 +23,12 @@ Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez p
 
 ### Projets
 
-- Créer un studio de musique.
+- Créer un grand studio de musique à Montréal afin de promovoir plus la musique là.
+
+- Créer une école de DJ et production musical à Montréal pour y motiver les artistes. 
 
 - Créer de nouveaux rythmes musicaux pour des chansons urbaines et électroniques.
 
-- Créer des projets interactifs et immersifs pour le centre-ville de Montréal.
+- Créer des projets interactifs et immersifs pour l'hiver ou l'été au centre-ville de Montréal.
 
 - Pouvoir faire partie d'une équipe pour des projets de création de jeux vidéo dans des entreprises renommées à Montréal.
