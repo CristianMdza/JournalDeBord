@@ -27,6 +27,6 @@ Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez p
 
 - Créer de nouveaux rythmes musicaux pour des chansons urbaines et électroniques.
 
--Créer des projets interactifs et immersifs pour le centre-ville de Montréal.
+- Créer des projets interactifs et immersifs pour le centre-ville de Montréal.
 
 - Pouvoir faire partie d'une équipe pour des projets de création de jeux vidéo dans des entreprises renommées à Montréal.
