@@ -15,11 +15,13 @@
 
 > ### Réalisateur de vidéos :
 
-- Un réalisateur de vidéos fait la création, production et édition de vidéos pour diverses utilisations. Son milieu de travail se situe dans les sociétés de production, studios de cinéma, médias en ligne et service independent. Afin de pratiquer ce métier, les réalisateurs de vidéos ont besoin d'une qualité créative, de compétences en narration visuelle, maîtrise des outils de montage vidéo et gestion de projet.
+- Un réalisateur de vidéos fait la création, production et édition de vidéos pour diverses utilisations. Son milieu de travail se situe dans les sociétés de production, studios de cinéma, médias en ligne et travail indépendant. Afin de pratiquer ce métier, les réalisateurs de vidéos ont besoin d'une qualité créative, de compétences en narration visuelle, maîtrise des outils de montage vidéo et gestion de projet.
 
 ### Emploi 3 - Identification
 
-> ###
+> ### Graphiste :
+
+- Le rôle d'un graphiste est la création d'éléments visuels tels que des logos, des images, des graphiques, etc. pour des projets multimédias. Il se trouve surtout dans les agences de design, studios de création, entreprises, travail indépendant. Pour devenir graphiste, il faut avoir de la créativité, compétences artistiques, maîtrise des outils de conception graphique, sens esthétique et avoir aussi la capacité à respecter les délais.
 
 ### Emploi 4 - Identification
 
