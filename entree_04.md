@@ -3,13 +3,14 @@
 Choisissez des emplois qui pourraient vous intéresser. 
 
 ### Emploi 1 - Identification
+
 Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
 
 ### Emploi 2 - Identification
 
-### Concepteur sonore :
+> ### Concepteur sonore :
 
-Tâches : Création d'effets sonores et de musique pour les médias.
+Un comcepteur sonore a comme tâche la création d'effets sonores et de musique pour les médias.
 Lieux de travail : Studios d'enregistrement, entreprises de production audiovisuelle, jeux vidéo.
 Qualités : Compétences musicales, maîtrise des logiciels de production audio, créativité, précision.
 
