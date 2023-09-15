@@ -25,7 +25,10 @@
 
 ### Emploi 4 - Identification
 
-> ###
+> ### Gestionnaire de médias sociaux :
+
+Un gestionnaire de médias sociaux est en charge de la gestion d'une entreprise sur les plateformes de médias sociaux, création de contenu, interaction avec la communauté. Il travaille aux entreprises telles que, des agences de marketing digital ou travail à distance.
+Pour avoir ce métier, il faut avoir des capacités en communication, compréhension des médias sociaux, réactivité et gestion du temps.
 
 ### Emploi 5 - Identification
 
