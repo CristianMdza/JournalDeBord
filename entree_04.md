@@ -43,8 +43,8 @@
 Un gestionnaire de médias sociaux est en charge de la gestion d'une entreprise sur les plateformes de médias sociaux, création de contenu, interaction avec la communauté. Il travaille aux entreprises telles que, des agences de marketing digital ou travail à distance.
 Pour avoir ce métier, il faut avoir des capacités en communication, compréhension des médias sociaux, réactivité et gestion du temps.
 
-- Point qui m'intéresse:
-- Point moins interessant:
+- Point qui m'intéresse: Pourvoir travailler à distance, ce qui offre une certaine flexibilité pour le travail.
+- Point moins interessant: Pression pour la performance comme c'est le cas d'attirer plus d'abonnés pour une entreprise par exemple. 
 
 ### Emploi 5 - Identification
 
@@ -52,7 +52,8 @@ Pour avoir ce métier, il faut avoir des capacités en communication, compréhen
 
 - Un animateur 2D/3D est celui qui réalise la création d'animations comme les modèles de personnages en 2D ou 3D, aussi d'élaboration d'un storyboard ou méme l'application des textures, des éclairages et des effets visuels aux animations. Son lieu de travail se trouve dans les Studios d'animation, jeux vidéo, cinéma. Pour exercer ce métier, il faut avoir certaines compétences en animation et maîtrise des logiciels d'animation.
 
-- Point qui m'intéresse:
-- Point moins interessant:
+- Point qui m'intéresse: Avoir la liberté de la créativité, ce qui me donne la possibilité de donner vie à des personnages grâce à l'animation.
+ 
+- Point moins interessant: Comprendre des logiciels et des techniques complexes. 
 
 
