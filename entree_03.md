@@ -14,8 +14,12 @@
 - Producteur de musique.
 - Designer graphique.
 
-### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+### Identification d'une entreprise et un artiste auxquels je m'identifie 
+
+- Entreprise: Hear This Music
+- Artiste: Dj Luian
+
+- Hear This Music est une maison de disques indépendante portoricaine fondée par les producteurs DJ Luian et Mambo Kingz en 2015. Je m'identifie dans la création de sons qu'ils créent pour les chansons des artistes. De plus, de la part de DJ Luian, il est à la fois un DJ crossover et un producteur de musique, c'est quelque chose que j'aime et que j'aimerais devenir, non seulement en pensant à un seul genre, mais à la variété qui existe.
 
 ### Dans 5 ans, où je me vois ?
 
