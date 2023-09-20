@@ -34,6 +34,6 @@ Pour avoir ce métier, il faut avoir des capacités en communication, compréhen
 
 > ### Animateur 2D/3D :
 
-Un animateur 2D/3D est celui qui réalise la création d'animations comme les modèles de personnages en 2D ou 3D, aussi d'élaboration d'un storyboard ou méme l'application des textures, des éclairages et des effets visuels aux animations. Son lieu de travail se trouve dans les Studios d'animation, jeux vidéo, cinéma. Pour exercer ce métier, il faut avoir certaines compétences en animation et maîtrise des logiciels d'animation.
+- Un animateur 2D/3D est celui qui réalise la création d'animations comme les modèles de personnages en 2D ou 3D, aussi d'élaboration d'un storyboard ou méme l'application des textures, des éclairages et des effets visuels aux animations. Son lieu de travail se trouve dans les Studios d'animation, jeux vidéo, cinéma. Pour exercer ce métier, il faut avoir certaines compétences en animation et maîtrise des logiciels d'animation.
 
 
