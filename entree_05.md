@@ -13,7 +13,7 @@ Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
 
-- 
+- J'ai fait l'examen dans 30 min si je me souviens bien, j'ai juste pris tout le temps possible afin de bien lire et d'y répondre. Le maximum de temps que je prenais par question était de 2 minutes ou même 3 minutes si la question était difficile. 
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
