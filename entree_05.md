@@ -10,6 +10,8 @@ Nommer deux points forts de votre préparation à l'examen.
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
 
+- Je n'ai pas trop de points à améliorer parce que j'ai eu 100% à l'examen. Par contre, je pense que je dois chercher plus d'information sur les differents pièces qu'il y a dans un ordinateur car si ça va être partie de ma profession. Aussi
+
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
 
@@ -23,5 +25,5 @@ Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
 
-- j'ai trouvé difficile la question de "OLED". 
+- j'ai trouvé difficile la question de "OLED". Dans cela j'ai pris du temps à y réfléchir et à part ça, j'ai mis la mauvaise question. 
 
