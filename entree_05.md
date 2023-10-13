@@ -4,8 +4,8 @@
 ### Points forts de la préparation à l'examen
 Nommer deux points forts de votre préparation à l'examen. 
 
-- 
--
+- J'ai étudié une heure et demie après près par jour pendant une semaine. 
+- le jour avant l'examen j'ai dédié 3 heures d'étude la nuit.
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
@@ -13,7 +13,7 @@ Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
 
-- J'ai étudié une heure et demie après près par jour pendant une semaine avant l'examen. 
+- 
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
