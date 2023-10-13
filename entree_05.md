@@ -10,7 +10,7 @@ Nommer deux points forts de votre préparation à l'examen.
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
 
-- Je n'ai pas trop de points à améliorer parce que j'ai eu 100% à l'examen. Par contre, je pense que je dois chercher plus d'information sur les differents pièces qu'il y a dans un ordinateur car si ça va être partie de ma profession. Aussi
+- Je n'ai pas trop de points à améliorer parce que j'ai eu 100% à l'examen. Par contre, je pense que je dois chercher plus d'information sur les differents pièces qu'il y a dans un ordinateur car si ça va être partie de ma profession. Aussi dédié plus de temps à étudier les noms des pèces d'un ordinateur et les differents vocabulaires en anglais qu'on utilise en Multimédia. 
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
