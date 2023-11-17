@@ -13,14 +13,18 @@ Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pou
 
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
 
+- Oui, les idées que la madame explicait et présentait étaient claires, facil à comprendre vu que c'était le developpement qu elle a eu pendant toute sa carrière et que ce sont des choses normales qui passent dans la vie personnelle et qui vont aussi nous passer comme techniciens en multimédia. 
+
 ### Structure de la conférence (Entre 1 et 2 lignes)
 
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
 
-
+- Oui le developpement était bien structuré, parce que la madame a commencé en explicant les debuts des logiciels et des opportunités de travail et par la suite elle nous explicait à quoi ressemblait la vie du travail dans "Moment Factory".
 
 ### Qualité visuelle (Entre 1 et 2 lignes)
 
 Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
+
+- La conférénce avait une très bonne qualité visuelle, les concepts et points étaient bien organisés accompagnés de bonnes couleurs et d'images qui facilitaient la tâche aux étudiants pour comprendre ce que la madame explicait. 
 
 
